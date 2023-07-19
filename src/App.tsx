@@ -127,9 +127,6 @@ const App: React.FC = () => {
           )}
         </div>
         <Stage stage={stage} />
-      <a href="https://github.com/lovishtater/Tetris-Pro" target="_blank">
-        <img src="https://img.shields.io/github/stars/lovishtater/Tetris-Pro?style=social" alt="Github Stars" />
-      </a>
       </StyledTetris>
     </StyledTetrisWrapper>
   );
